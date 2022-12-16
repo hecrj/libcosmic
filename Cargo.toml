@@ -35,6 +35,9 @@ features = ["image", "svg", "tokio"]
 [dependencies.iced_core]
 path = "iced/core"
 
+[dependencies.iced_graphics]
+path = "iced/graphics"
+
 [dependencies.iced_lazy]
 path = "iced/lazy"
 

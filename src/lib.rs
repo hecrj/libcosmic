@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: MPL-2.0
 
 pub use iced;
+pub use iced_graphics;
 pub use iced_lazy;
 pub use iced_native;
 pub use iced_style;
